@@ -1,0 +1,122 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Caturday.com" resolutions="1x" timestamp="1541324316922">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="20134271" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="midtermweb-02.jpg" crc="50175323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1.png" crc="67779111" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u195-8.png" crc="456651570" ref="index"/>
+    <file name="asset 2.png" crc="510658583" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="midtermweb2-02.jpg" crc="4061352590" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u933-7.png" crc="487655039" ref="index"/>
+    <file name="pasted-svg-3765x23.svg" crc="62683477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 3765x23_poster_.png" crc="3807042374" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pasted-svg-87183x81.svg" crc="176173305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 87183x81_poster_.png" crc="4109231764" ref="index"/>
+    <file name="asset 4.png" crc="4077231239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-133584x42.svg" crc="263486902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 133584x42_poster_.png" crc="307701310" ref="index"/>
+    <file name="pasted-svg-253721x42.svg" crc="4007999602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 253721x42_poster_.png" crc="510499652" ref="index"/>
+    <file name="asset 5.png" crc="497752568" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15235597_1377431172281473_3017806060674457785_o_1377431172281473.jpg" crc="3820464519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15271898_1377431058948151_8192352120358046715_o_1377431058948151.jpg" crc="231337444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15259285_1377430982281492_6301939000061368591_o_1377430982281492.jpg" crc="4256785561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15288684_1377431238948133_275322245745128836_o_1377431238948133.jpg" crc="457676068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15259757_1377430962281494_5333421090976706714_o_1377430962281494.jpg" crc="390023675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15235715_1377430422281548_1708001543092885175_o_1377430422281548.jpg" crc="239443118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15259635_1377430712281519_282734512144046861_o_1377430712281519.jpg" crc="4157942603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15289052_1377431598948097_1405400759480167359_o_1377431598948097.jpg" crc="4109326047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1779-4.png" crc="493174751" ref="index"/>
+    <file name="facebook1.png" crc="3805079000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig.png" crc="398813753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3885089882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-12152x931.svg" crc="87368191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 12152x931_poster_.png" crc="140796774" ref="index"/>
+    <file name="u788-18.png" crc="419194625" ref="index"/>
+    <file name="first1.jpg" crc="3964955822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15288553_1377430392281551_843432071748959326_o_1377430392281551.jpg" crc="124229089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15252728_1377431452281445_7190128747521730585_o_1377431452281445.jpg" crc="3822356020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15326225_1377431268948130_5684249030918745768_o_1377431268948130.jpg" crc="3986590804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15288632_1377459328945324_1828675731678616683_o_1377459328945324.jpg" crc="4159566057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2614-4.png" crc="333089696" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4113257825" seo="true" mt="1541040536535" redirect="true"/>
+</manifest>
